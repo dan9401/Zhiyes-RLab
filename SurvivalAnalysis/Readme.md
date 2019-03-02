@@ -1,2 +1,3 @@
-# Survival-Analysis
-- for basic studies and default analysis
+# Survival Analysis
+
+Study material and examples
