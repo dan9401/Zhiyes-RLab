@@ -1,1 +1,3 @@
-# Monte-Carlo-methods-tricks
+# Monte Carlo
+
+Monte Carlo methods and tricks.
