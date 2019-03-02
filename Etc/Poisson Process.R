@@ -24,11 +24,6 @@ plot(pro, 0:(length(pro)-1))
 # Jump Diffusion Process
 # For stock price with jump
 
-
-
-
-
-
 while(t < Time)
 {
   I = I + 1
