@@ -5,4 +5,4 @@ A Collection of my courseworks and small projects. A lot of them are just reinve
 * Monte Carlo
 * Decompositions
 * Survival Analysis
-* Etc
+* Etc...
